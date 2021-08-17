@@ -1,0 +1,6 @@
+dependencies:
+- name: mysql-is
+  repository: https://helm.wso2.com
+  version: 5.11.0-3
+digest: sha256:480cbbc5c4f37e92c2a51078c214bacbf59b311afc41ea836ae9fa04c06b12ce
+generated: "2021-08-12T13:24:19.590928+05:30"
